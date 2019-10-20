@@ -1,5 +1,9 @@
 # Git Workshop
-A repository to showcase collaboration on GitHub
+
+A repository to showcase collaboration on GitHub.
+
+This workshop is a part of the [Coding Bootcamp](https://github.com/acmbpdc/coding-bootcamp)
+
 
 ## Instructions
 
