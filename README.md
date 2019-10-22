@@ -9,3 +9,5 @@ This workshop is a part of the [Coding Bootcamp](https://github.com/acmbpdc/codi
 
 * Create a file with your name
 * Write a few lines about your favourite book, tv show, movie or song
+
+Fetch this!
